@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Main-Class: pokerbots.engine.Main
+Class-Path: .
+
+Name: common
+Specification-Title: JDBC
+Specification-Version: 4.0
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: MySQL Connector/J
+Implementation-Version: 5.1.21
+Implementation-Vendor-Id: com.mysql
+Implementation-Vendor: Oracle
+
